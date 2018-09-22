@@ -1,7 +1,9 @@
 .HomeBackground {
   height: auto;
   width: 100vw;
-  opacity: 0.4;
+  /* opacity: 0.4; */
+  position: center;
+  size: cover;
 }
 
 .beer {
