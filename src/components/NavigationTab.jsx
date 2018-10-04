@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Tabs, Tab, AppBar, IconButton } from '@material-ui/core';
-import MenuIcon from '@material-ui/icons/Menu';
+import { Tabs, Tab, AppBar } from '@material-ui/core';
+// import MenuIcon from '@material-ui/icons/Menu';
 import PropTypes from 'prop-types';
 import '../styles/NavigationTab.css';
 import { withRouter } from 'react-router';
@@ -52,7 +52,7 @@ class NavigationTab extends Component {
     return (
       <div className="Tab">
         <AppBar position="inherit">
-          <img src={HBlogo} className="hblogo" />
+          <img src={HBlogo} className="hblogo" alt="hblogo" />
           {/* <IconButton
             // className={classes.menuButton}
             color="inherit"

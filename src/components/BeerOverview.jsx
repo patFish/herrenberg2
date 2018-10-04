@@ -4,10 +4,6 @@ import BeerCard from './BeerCard';
 import '../styles/BeerOverview.css';
 
 class BeerOverview extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   createBeerOverwiew = () => {
     let view = [];
     for (let beer in BEERDB) {
