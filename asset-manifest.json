@@ -1,16 +1,22 @@
 {
-  "main.css": "static/css/main.095ea83a.css",
-  "main.css.map": "static/css/main.095ea83a.css.map",
-  "main.js": "static/js/main.e6517b47.js",
-  "main.js.map": "static/js/main.e6517b47.js.map",
+  "main.css": "static/css/main.ec9220c1.css",
+  "main.css.map": "static/css/main.ec9220c1.css.map",
+  "main.js": "static/js/main.eab90b9c.js",
+  "main.js.map": "static/js/main.eab90b9c.js.map",
   "static/media/HB_logobalken.jpg": "static/media/HB_logobalken.629abf1e.jpg",
-  "static/media/Nuglar_Pantaleon.jpg": "static/media/Nuglar_Pantaleon.a9435e82.jpg",
   "static/media/bintelalt.png": "static/media/bintelalt.cce66ca5.png",
   "static/media/chaemmifaeger.png": "static/media/chaemmifaeger.5fb3f2e2.png",
   "static/media/dinkel.png": "static/media/dinkel.a28f493e.png",
   "static/media/dudelsack.png": "static/media/dudelsack.56e92443.png",
+  "static/media/landingpicture.png": "static/media/landingpicture.b939e22a.png",
   "static/media/munnispez.png": "static/media/munnispez.18ea187a.png",
   "static/media/saisonspezial.png": "static/media/saisonspezial.8bc3356b.png",
   "static/media/schommelperle.png": "static/media/schommelperle.a435072a.png",
-  "static/media/sortiment.png": "static/media/sortiment.4c31df24.png"
+  "static/media/us_Armin-Winkler.jpeg": "static/media/us_Armin-Winkler.eb77f7c6.jpeg",
+  "static/media/us_Bruno-Maggi.jpeg": "static/media/us_Bruno-Maggi.5599e288.jpeg",
+  "static/media/us_Bruno-Wernli.jpeg": "static/media/us_Bruno-Wernli.b0f93eb0.jpeg",
+  "static/media/us_Daniel-Maurer.jpeg": "static/media/us_Daniel-Maurer.8ec374d3.jpeg",
+  "static/media/us_Hansjoerg-Braendle.jpeg": "static/media/us_Hansjoerg-Braendle.9dc0af83.jpeg",
+  "static/media/us_Martin-Burtschi.jpeg": "static/media/us_Martin-Burtschi.753d8ad4.jpeg",
+  "static/media/us_Paul-Schmid.jpeg": "static/media/us_Paul-Schmid.7ab39dc7.jpeg"
 }
